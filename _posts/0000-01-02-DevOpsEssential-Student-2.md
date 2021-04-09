@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 Use the left arrow to go back!
